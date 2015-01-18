@@ -2,7 +2,7 @@
 
 A template for building [cocos2d-js](https://github.com/cocos2d/cocos2d-js)
 games in [pogo](https://github.com/featurist/pogoscript) with
-[browserify](https://github.com/substack/browserify).
+[browserify](https://github.com/substack/node-browserify).
 
 ## Setup
 
